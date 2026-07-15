@@ -45,7 +45,7 @@
 
 - Designed **8 interactive interfaces** covering receipt capture, participant management, item assignment, expense review, and final settlement.
 - Evaluated OCR extraction across **20+ real-world receipt samples** and refined parsing logic for noisy text, duplicate prices, and inconsistent receipt layouts.
-- Integrated the **Google Cloud Vision API** with deterministic post-processing to transform unstructured receipt text into structured line-item and pricing data.
+- Integrated the **Google Cloud Vision API** and **Nemotron-ocr-v1 model** with deterministic post-processing to transform unstructured receipt text into structured line-item and pricing data.
 - Added an **item-by-participant calculation matrix** and final balance breakdown, allowing users to trace and verify how every expense was calculated.
 
 <br>
