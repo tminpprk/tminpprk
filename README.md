@@ -1,14 +1,10 @@
 # Hey there! I'm Minjae Park 👋
 
-<p align="center">
-  <code>I enjoy turning complex real-world problems into creative, human-centered products.</code>
-</p>
-
 ---
 
 ## About Me
 
-> *"I build at the intersection of AI research, software engineering, and real-world problem solving."*
+> *"I enjoy turning complex real-world problems into creative, human-centered products."*
 
 🎓 Computer Science Student @ University of Minnesota Twin Cities  
 🧠 Research Intern @ Yonsei University Medical Imaging AI Lab  
