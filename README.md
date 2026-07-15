@@ -1,7 +1,5 @@
 # Hey there! I'm Minjae Park 👋
 
----
-
 ## About Me
 
 > *"I enjoy turning complex real-world problems into creative, human-centered products."*
