@@ -75,12 +75,14 @@ An exploration of preprocessing and deep-learning workflows for longitudinal mul
 ## Let's Connect!
 
 <p>
-  <a href="linkedin.com/in/mjp1124/">
+  <a href="https://www.linkedin.com/in/mjp1124/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="park2910@umn.edu">
+
+  <a href="mailto:park2910@umn.edu">
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white">
   </a>
+
   <a href="https://www.instagram.com/minn_pprk/">
     <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white">
   </a>
