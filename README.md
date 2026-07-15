@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/Repository-DUTCHIE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 
 **Focus:** OCR parsing | Structured data extraction | Expense allocation | Explainable calculations
