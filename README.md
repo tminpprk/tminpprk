@@ -32,7 +32,7 @@
 
 *AI-assisted receipt parsing and expense-splitting app that turns noisy receipt images into trustable, verifiable settlements.*
 
-<a href="YOUR_DUTCHIE_REPOSITORY_URL">
+<a href="https://github.com/tminpprk/DUTCHIE">
   <img src="https://img.shields.io/badge/Repository-DUTCHIE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
