@@ -26,11 +26,11 @@
 
 ## Featured Projects
 
-### 🐾 PAWS
+### 💵 DUTCHIE
 
 A gamified dog-training and pet-care mobile application built around practical training, daily care, and interactive game systems.
 
-`React Native` · `Expo` · `TypeScript` · `Supabase` · `Mobile UI/UX`
+`React Native` · `Expo` · `TypeScript` · `Mobile UI/UX` . 'Google Cloud Vision API'
 
 ### 👑 CROWNED
 
