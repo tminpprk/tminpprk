@@ -18,9 +18,6 @@
 
 - Medical imaging preprocessing and longitudinal MRI analysis
 - Deep learning and model development with PyTorch
-- AI-assisted software and product engineering
-- Full-stack mobile development
-- Real-time multiplayer systems powered by Supabase
 
 ---
 
