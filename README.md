@@ -106,7 +106,7 @@
   <img src="https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 
-`MRI Preprocessing` · `DICOM` · `NIfTI` · `NiBabel` · `dcm2niix` · `Longitudinal Analysis`
+`MRI Preprocessing` · `DICOM` · `NIfTI` · `NiBabel` · `Longitudinal Analysis`
 
 ### Product Engineering
 
